@@ -1,6 +1,6 @@
 ; $Id$
 name = "OpenUnion Images"
-description = "Images  of Group and User in the frontpage."
+description = "联盟导航网站显示最新图片"
 core = 6.x
 php = 5.1
 package = Custom

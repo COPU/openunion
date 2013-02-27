@@ -1,6 +1,6 @@
 ; $Id$
 name = "OpenUnion Hot"
-description = "Hot Menu of Group and User in the frontpage."
+description = "联盟导航首页的热门用户、热门群组模块。"
 core = 6.x
 php = 5.1
 package = Custom
