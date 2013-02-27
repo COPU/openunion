@@ -53,14 +53,7 @@ if(Drupal.jsEnabled) {
 			result = "<ul class='result-1-1'>"+result+"</ul>";
                        $("#show-text").html(result);
               });	
-
       	  } 
      );
-
   });/*document END*/
-
-
 }
-
-
-
