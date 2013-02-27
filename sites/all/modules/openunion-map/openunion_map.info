@@ -1,6 +1,6 @@
 ; $Id$
 name = "OpenUnion Map"
-description = "Map of Group and User in the frontpage."
+description = "联盟导航网站首页地图功能。"
 core = 6.x
 php = 5.1
 package = Custom

@@ -28,5 +28,15 @@ be placed in subdirectories called modules and themes as follows:
 目前是beta版本，以后添加自动压缩图片功能。
 =====================
 
-(4) 
+(4)OpenUnion Map 模块介绍
+
+1，联盟导航网站首页地图功能;
+2，点击各个省份后显示省份内信息详细页链接；
+3，此为beta版，以后将添加弹出详细信息气泡等功能。 
+====================
+
+(5)OpenUnion Navigation 模块介绍
+
+联盟导航网站首页展示各种分类网站的显示栏;
+
 

@@ -1,6 +1,6 @@
 ; $Id$
 name = "OpenUnion Navigation"
-description = "Navigation of Group and User in the frontpage."
+description = "联盟导航网站首页展示各种分类网站的显示栏。"
 core = 6.x
 php = 5.1
 package = Custom
